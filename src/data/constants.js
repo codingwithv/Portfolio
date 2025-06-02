@@ -196,4 +196,16 @@ export const projects = [
     category: "web app",
     github: "https://github.com/codingwithv/EduTrack",
   },
+  {
+    id: 10,
+    title: "ZapMeet",
+    date: "April 2025- May 2025",
+    description:
+      "ZapMeet is a fullstack real-time chat and video calling app featuring 1-on-1 and group calls, screen sharing, secure JWT authentication, 32 customizable themes, and global state management with Zustand. Built using React, Express, MongoDB, and integrated with Stream for scalable messaging and video features.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8Qdh1_2n98Uf4rgNFTnLhmBuHsnE9TUNeQ&s",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Zustand", "Stream"],
+    category: "web app",
+    github: "https://github.com/codingwithv/ZapMeet",
+  },
 ];
