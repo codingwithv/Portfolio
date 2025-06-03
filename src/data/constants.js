@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/codingwithv",
   resume:
-    "https://drive.google.com/file/d/1TbrlU4rz9BqQZrqNg9Qsut_S9oE1zc7Z/view?usp=sharing",
+    "https://drive.google.com/file/d/1ICp0x5uUESumpCo83H4XJqRy5sMvrSsa/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/vivek-kumar-bb0a7b248/",
   leetcode: "https://leetcode.com/u/vivekkumar02/",
   codechef: "https://www.codechef.com/users/vivekkumar02",
@@ -144,8 +144,8 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/4/42/GLA_University_logo.png",
     school: "GLA University, Mathura",
     date: "Oct 2021 - May 2025",
-    grade: "7.24 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at GLA University. I have completed 7 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "7.35 CGPA",
+    desc: "I have completed my Bachelor's degree in Computer Science and Engineering from GLA University with a CGPA of 7.35. During my studies, I undertook courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
